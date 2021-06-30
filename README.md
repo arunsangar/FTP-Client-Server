@@ -1,17 +1,20 @@
 # FTP-Client-Server
 
-**CPSC 474 - Parallel and Distributed Computing**\
-**Project 2 - Parallel Maximum Sum Submatrix Variation**
+**CPSC 471 - Computer Communications**\
+**Project 1 - FTP Client and Server**
 
 ### **Problem description:**
+
 Develop a simplified FTP client and server program capable of processing basic commands and sending/receiving files.
 
 ### **Goals:**
+
 1. Understand the challenges of protocol design.
 2. Understand the challenges of developing real-world network applications.
 3. Practice with socket programming APIs.
 
 ### **How it works:**
+
 This program features a basic FTP server and client program. Once the FTP server is running, the client program can open a session and run basic commands. There are 4 available commands:
 
 1. ls - list the files in the server's directory
